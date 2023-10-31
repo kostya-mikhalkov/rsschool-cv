@@ -37,3 +37,11 @@ Good afternoon, my name is Konstantin. My goal is to achieve incredible heights 
 I want to become such a specialist for whom there are no and will not be unsolved problems. I consider my strengths to be the **desire to learn everything new**, as well as very strong perseverance, and to get to the bottom of every detail. 
 
 And when I solve some difficult programming problem, I become truly happy because I adore code.
+
+## Courses
+* Udemy
+
+  * [WEB-developer](https://www.udemy.com/course/webdeveloper/) 100% complete.
+  * [JavaScript + React](https://www.udemy.com/course/javascript_full/) 100% complete.
+  * [JavaScript](https://www.udemy.com/course/javascript-ru/) 100% complete.
+* Codecademy 70% complete.   

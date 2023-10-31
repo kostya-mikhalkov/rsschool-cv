@@ -31,4 +31,9 @@ for(let i = 0; i < arr.length; i++){
   return arr;
 };
 ```
+## About me
+Good afternoon, my name is Konstantin. My goal is to achieve incredible heights in programming. 
 
+I want to become such a specialist for whom there are no and will not be unsolved problems. I consider my strengths to be the **desire to learn everything new**, as well as very strong perseverance, and to get to the bottom of every detail. 
+
+And when I solve some difficult programming problem, I become truly happy because I adore code.

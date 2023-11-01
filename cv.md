@@ -44,4 +44,8 @@ And when I solve some difficult programming problem, I become truly happy becaus
   * [WEB-developer](https://www.udemy.com/course/webdeveloper/) 100% complete.
   * [JavaScript + React](https://www.udemy.com/course/javascript_full/) 100% complete.
   * [JavaScript](https://www.udemy.com/course/javascript-ru/) 100% complete.
-* Codecademy 70% complete.   
+* Codecademy 70% complete.  
+* Books
+  * [learn.javascript](https://learn.javascript.ru/)
+  * [Professional JavaScript for Web Developers, 4th Edition](https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/)
+  * [David Flanagan: JavaScript. Complete Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/)

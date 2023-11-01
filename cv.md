@@ -52,3 +52,5 @@ And when I solve some difficult programming problem, I become truly happy becaus
   * [David Flanagan: JavaScript. Complete Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/)
   ## Education
   **Higher education**, graduated from Gomel State Technical University named after P.O. Sukhoi, faculty of Mechanics and Technology.
+  ## English language
+  I'm currently studying on the duolingo platform.

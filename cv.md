@@ -5,6 +5,7 @@
 * Adress: republic of Belarus, city of Gomel.
 * Phone number: +375445881483.
 * GitHub: [kostya-mikhalkov](https://github.com/kostya-mikhalkov)
+* Email: **kostya.mikhalkov@bk.ru**
 ## Skills
 * HTML5
 * CSS3
@@ -49,3 +50,5 @@ And when I solve some difficult programming problem, I become truly happy becaus
   * [learn.javascript](https://learn.javascript.ru/)
   * [Professional JavaScript for Web Developers, 4th Edition](https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/)
   * [David Flanagan: JavaScript. Complete Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/)
+  ## Education
+  **Higher education**, graduated from Gomel State Technical University named after P.O. Sukhoi, faculty of Mechanics and Technology.

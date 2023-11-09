@@ -24,5 +24,24 @@
         <li>JavaScript</li>
         <li>NodeJS (in the learning process)</li>
     </ul>
+    <h2 class="code__example">Code example</h2>
+    <pre><code>function arrayRankTransform(arr) {
+        <span>let</span> arr1  = [...arr];
+        <span>let</span> newArr = arr1.<span>sort</span>((a,b) =&gt; a - b);
+        <span>let</span> obj = <span>new</span> Map();
+        <span>let</span> count = <span>1</span>;
+        <span>for</span>(<span>let</span> <span>key</span> of newArr){
+          <span>if</span>(!obj.has(<span>key</span>)){
+            obj.set(<span>key</span>, count);
+            count++;
+          }
+        }
+        <span>for</span>(<span>let</span> i = <span>0</span>; i &lt; arr.<span>length</span>; i++){
+        <span>let</span> <span>ind</span> = obj.<span>get</span>(arr[i]);
+        arr[i] = <span>ind</span>;
+        }
+        <span>return</span> arr;
+        };
+        </code></pre>
 </body>
 </html>

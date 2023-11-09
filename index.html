@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="head">rsschool-cv</h1>
+    <h1 class="name">Konstantin Mikhalkov</h1>
+    <h2 class="contacts">Contacts</h2>
+    <ul class="contacts__list">
+        <li>Adress: republic of Belarus, city of Gomel.</li>
+        <li>Phone number: +375445881483.</li>
+        <li>GitHub: <a href="https://github.com/kostya-mikhalkov">kostya-mikhalkov</a></li>
+        <li>Email: <strong>kostya.mikhalkov@bk.ru</strong></li>
+    </ul>
+    <h2 class="skills">Skills</h2>
+    <ul class="skills__list">
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>SASS/LESS</li>
+        <li>JavaScript</li>
+        <li>NodeJS (in the learning process)</li>
+    </ul>
+    <h2 class="code__example">Code example</h2>
+    <pre><code>function arrayRankTransform(arr) {
+        <span>let</span> arr1  = [...arr];
+        <span>let</span> newArr = arr1.<span>sort</span>((a,b) =&gt; a - b);
+        <span>let</span> obj = <span>new</span> Map();
+        <span>let</span> count = <span>1</span>;
+        <span>for</span>(<span>let</span> <span>key</span> of newArr){
+          <span>if</span>(!obj.has(<span>key</span>)){
+            obj.set(<span>key</span>, count);
+            count++;
+          }
+        }
+        <span>for</span>(<span>let</span> i = <span>0</span>; i &lt; arr.<span>length</span>; i++){
+        <span>let</span> <span>ind</span> = obj.<span>get</span>(arr[i]);
+        arr[i] = <span>ind</span>;
+        }
+        <span>return</span> arr;
+        };
+        </code></pre>
+        <h2 class="about">About me</h2>
+        <p class="about__first">Good afternoon, my name is Konstantin. My goal is to achieve incredible heights in programming.</p>
+        <p class="about__two">I want to become such a specialist for whom there are no and will not be unsolved problems. I consider my strengths to be the <strong>desire to learn everything new</strong>, as well as very strong perseverance, and to get to the bottom of every detail.</p>
+        <p class="about__tree">And when I solve some difficult programming problem, I become truly happy because I adore code.</p>
+        <h2>Courses</h2>
+        <ul>
+            <li class="udemy">
+                <p>Udemy</p>
+                <ul>
+                    <li><a href="https://www.udemy.com/course/webdeveloper/">WEB-developer</a> 100% complete.</li>
+                    <li><a href="https://www.udemy.com/course/javascript_full/">JavaScript + React</a> 100% complete.</li>
+                    <li><a href="https://www.udemy.com/course/javascript-ru/">JavaScript</a> 100% complete.</li>     
+                </ul>
+            </li>
+            <li class="codecademy"><p>Codecademy 70% complete.</p></li>
+            <li class="books">
+                <p>Books</p>
+                <ul>
+                    <li><a href="https://learn.javascript.ru/">learn.javascript</a></li>
+                    <li><a href="https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/">Professional JavaScript for Web Developers, 4th Edition</a></li>
+                    <li><a href="https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/">David Flanagan: JavaScript. Complete Guide</a></li>
+                </ul>
+            </li>
+        </ul>
+        <h2>Education</h2>
+        <p class="education">
+            <strong>Higher education</strong>, graduated from Gomel State Technical University named after P.O. Sukhoi, faculty of Mechanics and Technology.
+        </p>
+        <h2>English language</h2>
+        <p class="language">I'm currently studying on the duolingo platform.</p>
+</body>
+</html>
